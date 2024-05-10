@@ -9,9 +9,3 @@
 - Make your changes and commit them.
 - Push your changes to your fork.
 - Create a pull request.
-
-### Other Resources
-
-- [Remix Docs](https://remix.run/docs)
-- [Remix Discord](https://discord.gg/remix)
-- [Remix Twitter](https://twitter.com/remix_run)
